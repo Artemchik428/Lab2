@@ -1,0 +1,14 @@
+C:\Users\лгор\Desktop\LAB\bin\Debug\LABARATORNAYA.exe.config
+C:\Users\лгор\Desktop\LAB\bin\Debug\LABARATORNAYA.exe
+C:\Users\лгор\Desktop\LAB\bin\Debug\LABARATORNAYA.pdb
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.csproj.AssemblyReference.cache
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.csproj.SuggestedBindingRedirects.cache
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.Form1.resources
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.Form2.resources
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.Form3.resources
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.Form4.resources
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.Properties.Resources.resources
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.csproj.GenerateResource.cache
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.csproj.CoreCompileInputs.cache
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.exe
+C:\Users\лгор\Desktop\LAB\obj\Debug\LABARATORNAYA.pdb
